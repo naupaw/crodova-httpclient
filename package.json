@@ -1,0 +1,21 @@
+{
+  "name": "cordova-httpclient",
+  "version": "0.0.1-dev",
+  "description": "Cordova HttpClient",
+  "cordova": {
+    "id": "cordova-plugin-device",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedox/cordova-httpclient"
+  },
+  "keywords": [
+    "cordova-httpclient"
+  ],
+  "author": "Pedox"
+}
